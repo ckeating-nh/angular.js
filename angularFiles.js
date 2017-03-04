@@ -1,4 +1,4 @@
-angularFiles = {
+testing hereangularFiles = {
   'angularSrc': [
     'src/minErr.js',
     'src/Angular.js',
